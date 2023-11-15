@@ -4,7 +4,7 @@ I am actively engaging with problems on LeetCode, spanning across diverse diffic
 as a means to foster and elevate my logical reasoning and problem-solving capabilities. 
 
 LeetCode serves as an invaluable platform that not only challenges my current understanding of
-algorithms and data structures but also encourages continuous learning and improvement.
+algorithms and data structures but also encourages continuous learning and improvement. 
 
 By tackling problems of varying complexity, I am honing my skills in devising efficient and elegant solutions,
 which is crucial for excelling in coding interviews and real-world applications. The diversity of problem types on
