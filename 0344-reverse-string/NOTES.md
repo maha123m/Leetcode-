@@ -1,0 +1,1 @@
+reverse from begin of string to the end of string
