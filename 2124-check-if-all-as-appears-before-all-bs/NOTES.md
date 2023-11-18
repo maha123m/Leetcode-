@@ -1,4 +1,5 @@
 **Second Solution**
+
 ​
 class Solution {
 public:
