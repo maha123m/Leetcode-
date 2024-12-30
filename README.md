@@ -13,3 +13,15 @@ of core programming concepts.
 
 Through consistent participation, I aim to fortify my problem-solving prowess and build a solid foundation for 
 tackling complex coding challenges. You can explore my coding journey and solutions on my leetcode profile: https://leetcode.com/maha7553/.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
+<!---LeetCode Topics End-->
