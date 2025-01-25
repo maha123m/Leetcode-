@@ -19,6 +19,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -29,4 +30,12 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/maha123m/Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
