@@ -19,6 +19,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/maha123m/Leetcode-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -33,6 +34,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/maha123m/Leetcode-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
