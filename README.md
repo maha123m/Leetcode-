@@ -21,6 +21,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/maha123m/Leetcode-/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/maha123m/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -37,6 +38,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/maha123m/Leetcode-/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/maha123m/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
