@@ -23,6 +23,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 | [0027-remove-element](https://github.com/maha123m/Leetcode-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/maha123m/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/maha123m/Leetcode-/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -32,6 +33,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/maha123m/Leetcode-/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/maha123m/Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -41,6 +43,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/maha123m/Leetcode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/maha123m/Leetcode-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/maha123m/Leetcode-/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
