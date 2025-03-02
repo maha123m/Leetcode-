@@ -28,11 +28,13 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/maha123m/Leetcode-/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/maha123m/Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/maha123m/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/maha123m/Leetcode-/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/maha123m/Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
@@ -55,6 +57,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/maha123m/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/maha123m/Leetcode-/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
