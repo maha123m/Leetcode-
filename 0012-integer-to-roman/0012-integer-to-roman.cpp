@@ -1,72 +1,19 @@
 class Solution {
 public:
     string intToRoman(int num) {
-        string result="";
-         while(num>=1000){
-             result+="M";
-             num-=1000;
-         }
-        
-        while(num>=900){
-             result+="CM";
-             num-=900;
-         }
-        
-        while(num>=500){
-             result+="D";
-             num-=500;
-         }
-        
-        while(num>=400){
-             result+="CD";
-             num-=400;
-         }
-        
-        while(num>=100){
-             result+="C";
-             num-=100;
-         }
-        
-        while(num>=90){
-             result+="XC";
-             num-=90;
-         }
-        
-        while(num>=50){
-             result+="L";
-             num-=50;
-         }
-        
-        while(num>=40){
-             result+="XL";
-             num-=40;
-         }
-        
-        while(num>=10){
-             result+="X";
-             num-=10;
-         }
-        
-        while(num>=9){
-             result+="IX";
-             num-=9;
-         }
-        
-        while(num>=5){
-             result+="V";
-             num-=5;
-         }
-        
-        while(num>=4){
-             result+="IV";
-             num-=4;
-         }
-        while(num>=1){
-             result+="I";
-             num-=1;
-         }
-        return result;
+        vector<string> thousands = {"", "M", "MM", "MMM"};
+        vector<string> hundreds = 
+            {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"};
+        vector<string> tens = 
+            {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
+        vector<string> units = 
+            {"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
+
+        return thousands[num / 1000] + 
+               hundreds[(num % 1000) / 100] + 
+               tens[(num % 100) / 10] + 
+               units[num % 10];
+
         
     }
-
 };
