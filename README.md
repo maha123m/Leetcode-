@@ -33,6 +33,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 | [0012-integer-to-roman](https://github.com/maha123m/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maha123m/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/maha123m/Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/maha123m/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/maha123m/Leetcode-/tree/master/0058-length-of-last-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/maha123m/Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
@@ -104,5 +105,6 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/maha123m/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/maha123m/Leetcode-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
