@@ -25,6 +25,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 | [0088-merge-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/maha123m/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/maha123m/Leetcode-/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/maha123m/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -90,12 +91,18 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 | ------- |
 | [0141-linked-list-cycle](https://github.com/maha123m/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/maha123m/Leetcode-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/maha123m/Leetcode-/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/maha123m/Leetcode-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/maha123m/Leetcode-/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/maha123m/Leetcode-/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/maha123m/Leetcode-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
