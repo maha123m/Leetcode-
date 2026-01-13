@@ -26,6 +26,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 | [0141-linked-list-cycle](https://github.com/maha123m/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/maha123m/Leetcode-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/maha123m/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -36,6 +37,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 | [0020-valid-parentheses](https://github.com/maha123m/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/maha123m/Leetcode-/tree/master/0058-length-of-last-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/maha123m/Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1768-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/maha123m/Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
