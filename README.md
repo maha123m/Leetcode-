@@ -107,4 +107,8 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 | ------- |
 | [0020-valid-parentheses](https://github.com/maha123m/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/maha123m/Leetcode-/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/maha123m/Leetcode-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
