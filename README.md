@@ -49,6 +49,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/maha123m/Leetcode-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maha123m/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/maha123m/Leetcode-/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/maha123m/Leetcode-/tree/master/0055-jump-game) |
@@ -66,6 +67,7 @@ tackling complex coding challenges. You can explore my coding journey and soluti
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/maha123m/Leetcode-/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/maha123m/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/maha123m/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/maha123m/Leetcode-/tree/master/0141-linked-list-cycle) |
